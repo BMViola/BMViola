@@ -28,7 +28,7 @@
 <details>
 <summary><b>📚 Selected Outputs</b> (click to expand)</summary>
 
-*11 publications in total. Full list on [Google Scholar](https://scholar.google.com/citations?user=KZ01gAoAAAAJ&hl=en).*
+*11 publications in total (Last updated 12/11/2026). Full list on [Google Scholar](https://scholar.google.com/citations?user=KZ01gAoAAAAJ&hl=en).*
 
 **Peer-reviewed**
 - **Viola, B.**, Halpin, L., Fierro-Arcos, D., Travers, T., Emmerson, L., Southwell, C., Virtue, P., Kelly, N. & Corney, S. (2025). Environmental features associated with at-sea sightings of Snow Petrel *Pagodroma nivea* in East Antarctica. *Ecology and Evolution*, 15 (8), e71871. [DOI](https://doi.org/10.1002/ece3.71871)
